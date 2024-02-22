@@ -7,6 +7,7 @@
 
 * {
     font-family: 'TTHakgyoansimYeohaengR';
+    color: #AB946A;
 }
 
 body {
@@ -19,7 +20,6 @@ body {
     margin: 50px;
     align-items: center;
     text-align: center;
-    color: #AB946A;
 }
 
 h1 {
